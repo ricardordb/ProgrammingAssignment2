@@ -1,5 +1,6 @@
 ## Programming in R - Assignment n.2
 
+## This function creates a special "matrix" object that can cache its inverse to save computer resources.
 
 makeCacheMatrix <- function(x = matrix()) {
 ## Creates a special "matrix" object that can cache its inverse.
